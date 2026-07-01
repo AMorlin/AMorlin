@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats-am-orlin.vercel.app/api?username=AMorlin&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&icon_color=7dcfff&title_color=9ece6a" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-am-orlin.vercel.app/api?username=AMorlin&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight&icon_color=7dcfff&title_color=9ece6a" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats-am-orlin.vercel.app/api/top-langs/?username=AMorlin&layout=compact&hide_border=true&theme=tokyonight&title_color=9ece6a&langs_count=8" alt="Top languages" />
 
   <br/>
